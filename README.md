@@ -1,2 +1,2 @@
 # shift-api
-An API used for managing shifts.
+An API that generates shifts.
